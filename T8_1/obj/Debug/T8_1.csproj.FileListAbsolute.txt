@@ -1,0 +1,8 @@
+D:\ОАиП\T8_1\bin\Debug\T8_1.exe.config
+D:\ОАиП\T8_1\bin\Debug\T8_1.exe
+D:\ОАиП\T8_1\bin\Debug\T8_1.pdb
+D:\ОАиП\T8_1\obj\Debug\T8_1.csproj.AssemblyReference.cache
+D:\ОАиП\T8_1\obj\Debug\T8_1.csproj.SuggestedBindingRedirects.cache
+D:\ОАиП\T8_1\obj\Debug\T8_1.csproj.CoreCompileInputs.cache
+D:\ОАиП\T8_1\obj\Debug\T8_1.exe
+D:\ОАиП\T8_1\obj\Debug\T8_1.pdb
